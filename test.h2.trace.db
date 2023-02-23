@@ -1,0 +1,12 @@
+2017-01-20 00:28:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "STANZE" not found; SQL statement:
+INSERT INTO STANZE(ID,IDENTIFICATIVO) VALUES (B) [42102-191]
+2017-01-20 00:30:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "STANZE" not found; SQL statement:
+INSERT INTO STANZE(ID,IDENTIFICATIVO) VALUES (B) [42102-191]
+2017-01-20 00:33:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "STANZE" not found; SQL statement:
+SELECT * FROM STANZE WHERE ID=? [42102-191]
+2017-01-20 00:45:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "SALSA" not found; SQL statement:
+INSERT INTO SALSA(ID,CICCIO) VALUES (1,'B') [42102-191]
